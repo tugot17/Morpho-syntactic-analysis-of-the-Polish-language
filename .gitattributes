@@ -6884,3 +6884,5 @@ train_texts/Wojska-pancerne_743387.txt filter=lfs diff=lfs merge=lfs -text
 train_texts/Gry-komputerowe_1893919.txt filter=lfs diff=lfs merge=lfs -text
 train_texts/Narkomania_2947155.txt filter=lfs diff=lfs merge=lfs -text
 train_texts/Pierwiastki-chemiczne_65205.txt filter=lfs diff=lfs merge=lfs -text
+train-raw.txt filter=lfs diff=lfs merge=lfs -text
+train-gold.xml filter=lfs diff=lfs merge=lfs -text
